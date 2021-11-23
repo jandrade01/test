@@ -1,0 +1,5 @@
+Este archivo [2~filebranch1.txt 
+esta dentro del branch
+myprojectbranch
+pero es diferente al que esta
+en el master
