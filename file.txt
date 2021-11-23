@@ -3,3 +3,7 @@ pero lo cierrtto es que hay que escribir con return
 si se usa solo > lo que hace es editar y borrar lo que habia
 con >> .. agrega al [D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[Ctexto al final
 agrega al final del archivo
+111111111111
+222222222
+333333333333
+44444444444
